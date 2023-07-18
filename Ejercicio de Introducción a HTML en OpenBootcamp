@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <div>
+            <p>Este es mi primer comentario de dos líneas</p>
+        </div>
+        <div>
+            <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+        </div>
+        <h1>Videos favoritos de Youtube</h1>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=c81m86JMyP4&ab_channel=MariaBecerra">Maria Becerra - DESAFIANDO EL DESTINO (en Vivo - Fiesta Nacional del Sol San Juan)</a></li>
+            <li><a href="https://www.youtube.com/watch?v=N19vT2OfNyc&list=RDEMCgLb_8NFlBz0UcgoUIrqFQ&index=4&ab_channel=MariaBecerra-Topic">ADIÓS</a></li>
+            <li><a href="https://www.youtube.com/watch?v=qGqf-feIVNc&list=RDEMCgLb_8NFlBz0UcgoUIrqFQ&index=2&ab_channel=MariaBecerra">Maria Becerra - LA NENA DE ARGENTINA (Official Video)</a></li>
+        </ul>
+    </body>
+</html>
